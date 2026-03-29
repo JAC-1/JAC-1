@@ -55,7 +55,7 @@ Uses the DuckDuckGo API to find candidate links, feeds them to Claude Haiku to e
 |---|---|---|
 | [awkward-pywright](https://github.com/JAC-1/awkward-pywright/tree/hunt-and-search) | Earlier iteration of the factbook finder — Playwright hunting for search bars across university sites | Python · Playwright |
 | [elsc-library-inventory-checker](https://github.com/JAC-1/elsc-library-inventory-checker) | Desktop tool for scanning and editing a library book inventory from Excel files | Python · EEL · Pandas |
-| [rude-mistral](https://github.com/JAC-1/rude-mistral) | Calling a custom Mistral agent (rude British persona) via TypeScript/Bun | TypeScript · Bun · Mistral AI |
+| [rude-mistral](https://github.com/JAC-1/rude-mistral) | Tutorial project for beginner programmers learning English via TypeScript/Bun | TypeScript · Bun · Mistral AI |
 
 ---
 
@@ -125,7 +125,7 @@ DuckDuckGo API で候補リンクを検索し、Claude Haiku で関連性を評�
 |---|---|---|
 | [awkward-pywright](https://github.com/JAC-1/awkward-pywright/tree/hunt-and-search) | ファクトブック検索の旧バージョン — Playwright で大学サイトの検索バーを探索 | Python · Playwright |
 | [elsc-library-inventory-checker](https://github.com/JAC-1/elsc-library-inventory-checker) | Excel ファイルから図書館書籍在庫をスキャン・編集するデスクトップツール | Python · EEL · Pandas |
-| [rude-mistral](https://github.com/JAC-1/rude-mistral) | TypeScript/Bun でカスタム Mistral エージェント（無礼なイギリス人ペルソナ）を呼び出す | TypeScript · Bun · Mistral AI |
+| [rude-mistral](https://github.com/JAC-1/rude-mistral) | 初心者向けの英語プログラミングワークショップ：　TypeScript/Bun でカスタム Mistral エージェントを呼び出す | TypeScript · Bun · Mistral AI |
 
 ---
 
